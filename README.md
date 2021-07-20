@@ -1,3 +1,5 @@
+![image title](https://rushter.com/counter.svg)
+
 - 👋 Hi, I’m Dheeraj Tupe,
 - 👀 I’m interested in working on and learning about new this in ADAS & Autonomous vehicles 
 - 🌱 I’m currently working on building my profile and showcasing some of my projects which I have worked on in past during my college days and would also be              uploading some of my personal projects which I have done during my learning phase.
