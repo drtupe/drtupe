@@ -1,4 +1,4 @@
-![image title](https://rushter.com/counter.svg)
+![image title](https://github.com/drtupe)
 
 - 👋 Hi, I’m Dheeraj Tupe,
 - 👀 I’m interested in working on and learning about new this in ADAS & Autonomous vehicles 
