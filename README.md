@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2Fdrtupe&count_bg=%23FB0000&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 - 👋 Hi, I’m Dheeraj Tupe,
 - 👀 I’m interested in working on and learning about new this in ADAS & Autonomous vehicles 
 - 🌱 I’m currently working on building my profile and showcasing some of my projects which I have worked on in past during my college days and would also be              uploading some of my personal projects which I have done during my learning phase.
